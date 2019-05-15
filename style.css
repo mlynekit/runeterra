@@ -1,0 +1,68 @@
+body{
+    background-color: #0D141E;
+}
+path{
+    fill: rgba(0, 0, 0, 0);
+    stroke: grey;
+    stroke-width: 0.3px;    
+}
+.map{
+padding: 0;
+border: 10px solid rgb(177, 152, 9);
+}
+.side{
+    padding-left: 0;
+    padding-right: 0;
+    color: rgb(177, 152, 9);
+    border: 10px solid rgb(177, 152, 9);
+}
+.side h1{
+    padding-top: 5%;
+    font-size: 3vw;
+}
+#img1{
+    padding-top: 10%;
+    max-height: 40%;
+}
+#img2{
+    padding-top: 24%;
+    max-width: 100%;
+}
+svg img{
+    max-width: 100%;
+}
+footer{
+    padding-top: 50px;
+    color: rgb(177, 152, 9);
+    font-size: 2vw;
+}
+#a:hover{
+    fill: rgba(34, 165, 29, 0.7);
+}
+#b:hover{
+    fill: rgba(190, 168, 42, 0.7);
+}
+#c:hover{
+    fill: rgba(51, 153, 131, 0.7);
+}
+#d:hover{
+    fill: rgba(72, 32, 136, 0.7);
+}
+#e:hover{
+    fill: rgba(41, 90, 180, 0.7);
+}
+#f:hover{
+    fill: rgba(210, 202, 214, 0.7);
+}
+#g:hover{
+    fill: rgba(194, 38, 38, 0.7);
+}
+#h:hover{
+    fill: rgba(33, 112, 148, 0.7);
+}
+#i:hover{
+    fill: rgba(214, 230, 77, 0.7);
+}
+#j:hover{
+    fill: rgba(107, 56, 131, 0.7);
+}
